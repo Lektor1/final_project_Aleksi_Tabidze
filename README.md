@@ -10,7 +10,7 @@ Project task description - _final-project.md_
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/my-express-app.git
+   git clone https://github.com/Lektor1/final_project_Aleksi_Tabidze.git
    ```
 2. Navigate to the project directory:
    ```
